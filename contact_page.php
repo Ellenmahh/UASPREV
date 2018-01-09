@@ -48,6 +48,10 @@
 					<input type="text" name="name" class="smoothborder" placeholder="Digite seu nome *"/>
 					</div>
 					<div class="six columns">
+					<label>Assunto </label>
+					<input type="text" name="assunto" class="smoothborder" placeholder="Assunto*"/>
+					</div>
+                    <div class="six columns">
 					<label>E-mail </label>
 					<input type="text" name="email" class="smoothborder" placeholder="Digite seu email *"/>
 					</div>
@@ -66,21 +70,8 @@
 <!-- FOOOTER 
 ================================================== -->
 <?php require_once('footer.html')?>
-<!-- JAVASCRIPTS 
-================================================== -->
-<!-- Javascript files placed here for faster loading -->
-<script src="javascripts/foundation.min.js"></script>
-<script src="javascripts/formvalidation.js"></script>
-<script src="javascripts/jquery.cycle.js"></script>
-<script src="javascripts/app.js"></script>
-<script src="javascripts/modernizr.foundation.js"></script>
-<script src="javascripts/slidepanel.js"></script>
-<script src="javascripts/scrolltotop.js"></script>
-<script src="javascripts/hoverIntent.js"></script>
-<script src="javascripts/superfish.js"></script>
-<script src="javascripts/responsivemenu.js"></script>
-<script src="javascripts/jquery.tweet.js"></script>
 
 
 </body>
+
 </html>
